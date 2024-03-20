@@ -47,12 +47,12 @@ There are 3 problems for this week in one notebook.
 
  - [Problems 1-3: Converting math to Python and visualizing uncertainty (20 points)](Exercise-1-problems-1-3.ipynb)
 
-## Exercise 1 grade and feedback: 13.0 / 20.0 points
+## Exercise 1 grade and feedback: 20.0 / 20.0 points
 ### Grader
-- graderbot (*awaiting review by a course grader!*)
+- Leevi
 ### Problem scores
 - Problem 1: 3.0 / 3.0 
-- Problem 2: 7.0 / 8.0 
-- Problem 3: 3.0 / 9.0 
+- Problem 2: 8.0 / 8.0 
+- Problem 3: 9.0 / 9.0 
 ### Comments
-- Comments will be added here.
+- Well done!
